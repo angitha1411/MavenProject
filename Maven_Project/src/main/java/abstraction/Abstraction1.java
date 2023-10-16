@@ -1,6 +1,6 @@
 package abstraction;
 
-public class Abstraction1 extends AbstractionExample {
+public class  Abstraction1 extends AbstractionExample {
 	
 
 public static void main (String args[]) {

@@ -1,4 +1,4 @@
-package NewProject;
+package newSuper;
 
 public class FirstProgram1 extends FirstProgram{
 	
